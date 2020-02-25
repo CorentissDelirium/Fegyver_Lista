@@ -1,0 +1,2 @@
+# Fegyver_Lista
+ListaFeladat
